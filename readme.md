@@ -1,7 +1,7 @@
 # Finda [![Build Status](https://travis-ci.org/codeforboston/finda.png)](https://travis-ci.org/codeforboston/finda)
 
 _You have data with locations. Share it with the world._
-
+ 
 ### Why use Finda?
 
 1. You have data with addresses / locations.
